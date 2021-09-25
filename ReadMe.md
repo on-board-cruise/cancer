@@ -2,3 +2,6 @@
 
 ### data출처 
 > https://www.kaggle.com/c/histopathologic-cancer-detection/data
+
+### data_preprocessing.ipynb
+- 데이터 불러오기
